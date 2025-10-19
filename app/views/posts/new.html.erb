@@ -1,0 +1,5 @@
+<%= form_with model: @post do |post|%>
+<%= post.label :content%>
+<%= post.text_area :content, placeholder: "Put your content here"%>
+<%= post.submit%>
+<%end%>
