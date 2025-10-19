@@ -3,7 +3,7 @@
 Authentication Project of The Odin Project:
 Members Only!
 
-\*Version
+**_Version_**
 
 -Ruby: 3.4.2
 
